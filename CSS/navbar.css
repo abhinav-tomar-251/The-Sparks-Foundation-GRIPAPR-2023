@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html,
+body {
+  background-color: #020e26;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  margin: 0;
+}
+#player {
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 96px;
+}
+.navbar .logo {
+  font-size: 28px;
+  font-weight: 300;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+.items {
+  list-style-type: none;
+  display: flex;
+  gap: 24px;
+}
+.navbar ul li {
+  font-weight: 300;
+}
+.navbar ul li .icon {
+  line-height: 0.9;
+  font-weight: 300;
+}
+.navbar ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
