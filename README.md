@@ -1,7 +1,8 @@
 # The-Sparks-Foundation-GRIPAPR-2023
-##Web Development Internship tasks
 
-##Task-1 Basic Banking Website
+Web Development Internship tasks
+
+Task-1 Basic Banking Website
 
 Languages used-<br>
 1.HTML<br>
