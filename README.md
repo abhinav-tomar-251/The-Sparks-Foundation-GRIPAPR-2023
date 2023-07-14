@@ -16,4 +16,4 @@ Software used-<br>
 2.PHPMYADMIN
 
 ## Screenshots
-![Home Page](screenshots/Screenshot 2023-07-14 120216.png?raw=true "Home Page")
+![Home Page](/../screenshots/Screenshot 2023-07-14 120216.png?raw=true "Home Page")
