@@ -14,3 +14,6 @@ Languages used-<br>
 Software used-<br>
 1.XAMPP<br>
 2.PHPMYADMIN
+
+## Screenshots
+![Home Page](screenshots/Screenshot 2023-07-14 120216.png?raw=true "Home Page")
