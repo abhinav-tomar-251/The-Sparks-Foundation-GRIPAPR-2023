@@ -16,4 +16,5 @@ Software used-<br>
 2.PHPMYADMIN
 
 ## Screenshots
-![Home Page](/../screenshots/Screenshot 2023-07-14 120216.png?raw=true "Home Page")
+<img width="960" alt="Screenshot 2023-07-14 120216" src="https://github.com/abhinav-tomar-251/The-Sparks-Foundation-GRIPAPR-2023-Task-1/assets/108477690/9cb357e5-58c1-4b39-a0a0-1e54e1d6310c">
+
